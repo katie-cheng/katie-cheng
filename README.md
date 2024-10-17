@@ -1,5 +1,5 @@
 # hello! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" height="35" alt="Peace Sign GIF">
-***Currently:*** &nbsp;Stanford '27 CS, TerraAPI \
+***Currently:*** &nbsp;Stanford CS, TerraAPI \
 ***Previously:*** &nbsp;Microsoft Intern, TreeHacks Organizer
 <br>
 ## my socials <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNtd2FseXk5d2s1eGN0NDRmZWUyNWw3cTVxaDA5ZXE2b2Z0Y2VhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.webp" height="25" alt="Earth GIF">
