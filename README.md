@@ -29,5 +29,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30"/>
 </p>
 <br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katie-cheng&layout=compact&theme=github_dark)
