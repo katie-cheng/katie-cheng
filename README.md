@@ -1,6 +1,6 @@
 # hello! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" height="35" alt="Peace Sign GIF">
-***Currently:*** &nbsp;Stanford CS + Art \
-***Previously:*** &nbsp;Microsoft, TerraAPI (YC W21), TreeHacks Organizer
+***Currently:*** &nbsp;Stanford CS + Art, SWE Intern @ Microsoft Copilot \
+***Previously:*** &nbsp;Microsoft M365 Core, TerraAPI (YC W21), TreeHacks Organizer
 <br>
 
 ## tech stack <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnMzcHo4N3VlNXo2ZjZhdHJseW9hbm93c2J2YXZvY3huN2t6NTR5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/SvLQ270MWY0GpztVjo/giphy.webp" height="25" alt="Muscle GIF"> 
